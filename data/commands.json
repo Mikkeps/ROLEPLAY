@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"pomoc","permissions":"NONE","restriction":"3","actions":[{"channel":"1","varName":"","message":"**Dostępne komendy:**\n```\n\n!faq\n\n```","storage":"0","varName2":"","name":"Send Message"}]},{"name":"faq","permissions":"NONE","restriction":"3","actions":[{"channel":"1","varName":"","message":"**Najcześciej zadawane pytania:**\n\n**Nie ma tutaj odpowiedzi na moje pytanie.**\n-Zadaj pytanie bezpośrednio do administracji","storage":"0","varName2":"","name":"Send Message"}]}]
